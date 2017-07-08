@@ -1,0 +1,46 @@
+/*NAVBAR SECTION*/
+.navbar-nav a
+{
+	color: #e53935;
+}
+
+.navbar-nav a:hover
+{
+	background: #e53935;
+	color: black;
+}
+
+.jumbotron
+{
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	background: transparent;
+	color: #ffb300;
+}
+
+#cover-section
+{
+	height: 720px;
+	background: url("../img/profilepic2.jpg") center center fixed;
+	background-repeat: no-repeat;
+}
+
+.jumbotron a
+{
+	font-size: 3em;
+	height: 55px;
+	width: 55px;
+	vertical-align: 33px;
+	border: solid 5px transparent;
+	margin: 0 10px;
+	border-radius: 50%;
+	display: inline-block;
+	line-height: 50px;
+	color: #ffb300;
+}
+
+.jumbotron a:hover 
+{
+	background: #ffb300;
+	color: red;
+}
